@@ -16,6 +16,12 @@ This project covers an exploration of data on churn, and the construction of a p
 
 The project draws on a fictional but representative dataset from 'Sparkify', a streaming service comparable to companies such as Spotify or Pandora. The data comprises user logs that provide insight on how users, including data on whether they have churned or not and data on a wide variety of on-ste activities. 
 
+
+## Results
+
+We found we're able to reach an F1-Score of c.76% using our tuned random forest model. We achieved this with a random forest model, tuned to select preferable hyperparameters. Among our individual features, songs played and thumbs down proved the strongest predidctors of churn. 
+
+
 ## File descriptions
 - \
 	- README.md
