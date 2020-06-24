@@ -1,4 +1,4 @@
-# Sparkify Churn Reduction project
+# Churn Reduction: Spark exploration
 
 ## Installation
 This project was built in Python 3.6. A number of additional libraries were also used - these libraries and their version numbers are listed below. 
