@@ -12,14 +12,9 @@ This project was built in Python 3.6. A number of additional libraries were also
 
 ## Project overview and motivation
 
-This project covers an exploration of data on churn, and the construction of a predictive model to better anticipate churn ahead of time. 
+This project covers an exploration of data on churn, making use of Spark. 
 
-The project draws on a fictional but representative dataset from 'Sparkify', a streaming service comparable to companies such as Spotify or Pandora. The data comprises user logs that provide insight on how users, including data on whether they have churned or not and data on a wide variety of on-ste activities. 
-
-
-## Results
-
-We found we're able to reach an F1-Score of c.76% using our tuned random forest model. We achieved this with a random forest model, tuned to select preferable hyperparameters. Among our individual features, songs played and thumbs down proved the strongest predidctors of churn. 
+The project draws on a data set from a streaming service comparable to companies such as Spotify or Pandora. The data comprises user logs that provide insight on how users, including data on whether they have churned or not and data on a wide variety of on-ste activities. 
 
 
 ## File descriptions
